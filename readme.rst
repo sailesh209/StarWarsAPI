@@ -16,14 +16,23 @@ TestCases
 Total 10 test cases were written to test star wars api.
 
 1.Test If the people endpoint is getting the result back with status code 200
+
 2.Test If the films endpoint is getting the result back with status code 200
+
 3.Test If the planets endpoint is getting the result back with status code 200
+
 4.Test If the species endpoint is getting the result back with status code 200
+
 5.Test If the starships endpoint is getting the result back with status code 200
+
 6.Test If the vehicle endpoint is getting the result back with status code 200
+
 7.Test if the number of people whose height is more than 200 and check the count and check the names of the people whose height is more than 200
+
 8.Test if empire strikes back file data matches with the director and title
+
 9.Test the  planet naboo data with checking films and resident count
+
 10.Test the vehicle snowspeeder data
 
 Methods
