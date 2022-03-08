@@ -1,6 +1,7 @@
 Usage
 ========
 Star Wars API - https://swapi.dev/ and documentation https://swapi.dev/documentation
+
 To run the test suite to run the test cases in apitestcase module
     install HtmlTestRunner
 
